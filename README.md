@@ -33,7 +33,7 @@ This helps to find donors/volunteers nearest to your location and so it would he
 
 ## Demo video
 
-[![Watch the video](https://github.com/prakashalamanda/HelpBuddy/blob/master/src/assets/icons/logo.png?raw=true)](https://youtu.be/ZjiMPW72UA4)
+[![Watch the video](https://github.com/prakashalamanda/HelpBuddy/blob/master/video-thumbnail.png)](https://youtu.be/ZjiMPW72UA4)
 
 ## The architecture
 
