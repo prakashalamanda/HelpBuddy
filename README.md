@@ -93,6 +93,7 @@ password: testuser
 * IBM Watson Assistant
 * IBM Discovery API
 * IBM Cloudant DB
+* IBM Cloud Foundry Apps
 
 ## Contributing
 

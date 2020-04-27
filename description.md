@@ -47,3 +47,4 @@ Response details
 1. We are thinking to integrate with IBM push notification at later point in time due to time constraint
 2. We have to apply a pattern matching in the request to give more detailed information as much as we can to the users willing to help
 3. Add additional features to track history of the donations/help done by an users
+4. Adhere to accessibility standards so that all users access it irrespective of devices/ browsers.
