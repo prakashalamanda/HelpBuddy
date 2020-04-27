@@ -63,8 +63,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-1. NodejS
-2. Web Service set up and running locally.Follow the steps mentioned [here](https://github.com/Hemachandranhj/CallForCodeNode/blob/master/README.md)
+1. NPM latest version 
+2. Node latest version
 
 ### Installing
 
@@ -85,8 +85,6 @@ please user the below credentials as we haven't integrated with different login 
 
 username: phil@test.com 
 password: testuser
-
-You can find a running system to test at [assistanceportal.eu-gb.cf.appdomain.cloud](https://assistanceportal.eu-gb.cf.appdomain.cloud/)
 
 ## Built with
 
