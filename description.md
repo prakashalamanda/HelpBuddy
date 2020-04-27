@@ -5,41 +5,42 @@ The application comprises of two flows
 2. User responding to help
 
 ### User requests for help
-The app provides an IBM watson assistant chatbot to interact with user and handles the request and submits it to the database.
 
-The chatbot uses IBM discovery API and CloudantDB to store the information
+The 'Help your Buddy' app provides the users to access the IBM watson assistant chatbot which interacts with the IBM Cloudant database which would in turn triggers a notification to all the logged in users. This enables other users to contribute for the request.
+
+The IBM Chatbot uses IBM discovery API and CloudantDB to store the information
 
 It acknowlegdes the user on successful completion
 
-![Chatbot](https://github.com/prakashalamanda/HelpBuddy/blob/master/IBM_Chatbot.png)
+![Chatbot](https://github.com/prakashalamanda/HelpBuddy/blob/master/IBM_Chatbot.PNG)
 
 ### User responding to help
 
 User can access the portal [Help your buddy](https://helpbuddy.eu-gb.mybluemix.net/)
 
-please user the below credentials as we haven't integrated with different login providers like Google, Facebook or create an user for yourself.
+Please enter the below credentials as we haven't integrated with different login providers like Google, Facebook or create an user for yourself.
 
 username: phil@test.com
 password: testuser
 
-He/She can see the notifications in the dashboard and accept/ignore to the request.
+User can see the notifications in the dashboard and accept/ignore the request.
 
-Once they accept the request then the app will ask for the number of quantities they would like to share.
+Once the user accepts the request, the app will ask for the number of quantities the user would like to contribute.
 
-They can enter and close the request and it will then get notified to the requester.
+User can enter and close the request and it will then get notified to the requester.
 
-Once the requester accepted the request they both could see their contact details.
+Once the requester accepted the request, requester will be able to see the responder's contact details.
 
-This helps to get the need in the real time and direct interaction between both end users.
+This enables the users to be directly involved via the app without any third party intervention.
 
 Request notification
-![Request](https://github.com/prakashalamanda/HelpBuddy/blob/master/Notifications.png)
+![Request](https://github.com/prakashalamanda/HelpBuddy/blob/master/Notifications.PNG)
 
 Responding to request
-![Responding](https://github.com/prakashalamanda/HelpBuddy/blob/master/RespondToRequest.png)
+![Responding](https://github.com/prakashalamanda/HelpBuddy/blob/master/RespondToRequest.PNG)
 
 Response details
-![Response](https://github.com/prakashalamanda/HelpBuddy/blob/master/response_details.png)
+![Response](https://github.com/prakashalamanda/HelpBuddy/blob/master/response_details.PNG)
 
 
 ##Improvements

@@ -37,7 +37,7 @@ This helps to find donors/volunteers nearest to your location and so it would he
 
 ## The architecture
 
-![Architecture](https://github.com/prakashalamanda/HelpBuddy/blob/master/assets/Architecture.PNG)
+![Architecture](https://github.com/prakashalamanda/HelpBuddy/blob/master/Architecture.PNG)
 
 1 - Requester request for assistance with IBM chatbot.
 2,3,4 - The message is forwarded to Cloudant DB via a IBM discovery API
