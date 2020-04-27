@@ -67,7 +67,7 @@ What things you need to install the software and how to install them
 2. Node latest version
 
 ### Installing
-
+Download the source code from github.
 Follow the steps below to get the development env running
 
 
